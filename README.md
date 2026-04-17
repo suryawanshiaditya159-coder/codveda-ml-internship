@@ -28,6 +28,14 @@ This repository contains my completed tasks for the Codveda Machine Learning Int
 - Model training and evaluation
 - Comparison of multiple ML algorithms
 - Understanding performance metrics (Accuracy, MSE, F1-score)
+  
+## 📊 Results
+- Linear Regression achieved R² score of X
+- Logistic Regression accuracy: X%
+- Decision Tree F1-score: X
 
+## 🔍 Observations
+- Scaling improved model performance
+- Overfitting observed in Decision Tree
 ## 👨‍💻 Author
 Aditya Suryawanshi
